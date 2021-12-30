@@ -39,6 +39,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanto96&" alt="shanto96" /></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanto96&show_icons=true&theme=algolia)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanto96&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanto96&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>

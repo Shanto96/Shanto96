@@ -38,6 +38,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanto96&" alt="shanto96" /></p>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanto96&show_icons=true&theme=algolia)
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>

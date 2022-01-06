@@ -42,4 +42,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanto96&show_icons=true&theme=algolia)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanto96&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="100"></p>
+<p align="left"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="1000"></p>

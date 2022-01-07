@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm A.K.M. Kibria Hasan</h1>
 <h3 align="center">A passionate JS Developer from Bangladesh</h3>
 <ul>
- <img src="https://github.com/Shanto96/Shanto96/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card" align="right"/></p></li>
+ <img src="https://github.com/Shanto96/Shanto96/blob/main/devcard.svg" width="300"alt="Chris Bongers's Dev Card" align="right"/></p></li>
 <li><p>🔭 I’m currently working on <strong>Brain Code BD</strong></p></li>
 <li><p>🌱 I’m currently learning <strong>Dev Ops,Next js,Typescript</strong></p></li>
 <li><p>👯 I’m looking to collaborate on <strong>React App and Dev Ops Team</strong></p></li>

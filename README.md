@@ -2,8 +2,9 @@
 <h3 align="center">A passionate JS Developer from Bangladesh</h3>
 
 <div>
+  <div float "left" align="left">
   
-<p align="left" width="500">
+
 - 🔭 I’m currently working on **Brain Code BD**
 
 - 🌱 I’m currently learning **Dev Ops,Next js,Typescript**
@@ -19,8 +20,11 @@
 - 📫 How to reach me **shan2neo@gmail.com**
 
 - ⚡ Fun fact **I am student of night before exam**
-</p>
-  <p align="right"  width="500"><a href="https://app.daily.dev/DailyDevTips" float="right"><img src="https://github.com/Shanto96/Shanto96/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a></p>
+  </div>
+   <div align="right" float="right>
+  <p><a href="https://app.daily.dev/DailyDevTips" float="right"><img src="https://github.com/Shanto96/Shanto96/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a></p>
+  </div>
+
 </div>
 
 

@@ -3,7 +3,7 @@
 
 <div>
   
-<p align="left">
+<p align="left" width="500">
 - 🔭 I’m currently working on **Brain Code BD**
 
 - 🌱 I’m currently learning **Dev Ops,Next js,Typescript**
@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I am student of night before exam**
 </p>
-  <p align="right"><a href="https://app.daily.dev/DailyDevTips" float="right"><img src="https://github.com/Shanto96/Shanto96/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a></p>
+  <p align="right"  width="500"><a href="https://app.daily.dev/DailyDevTips" float="right"><img src="https://github.com/Shanto96/Shanto96/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a></p>
 </div>
 
 

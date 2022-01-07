@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I am student of night before exam**
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Shanto96/Shanto96/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Shanto96/Shanto96/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
 
 
 ### Blogs posts

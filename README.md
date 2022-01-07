@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm A.K.M. Kibria Hasan</h1>
 <h3 align="center">A passionate JS Developer from Bangladesh</h3>
 
-<p float="right"><a href="https://app.daily.dev/DailyDevTips" float="right"><img src="https://github.com/Shanto96/Shanto96/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a></p>
+<p align="right"><a href="https://app.daily.dev/DailyDevTips" float="right"><img src="https://github.com/Shanto96/Shanto96/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a></p>
 
 - 🔭 I’m currently working on **Brain Code BD**
 

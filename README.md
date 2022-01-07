@@ -79,6 +79,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanto96&show_icons=true&theme=algolia)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanto96&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shanto96&repo=24-7-Islamic-support-)](https://github.com/Shanto96/24-7-Islamic-support-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shanto96&repo=MERN_Social_Media)](https://github.com/Shanto96/MERN_Social_Media)
+
 
 
 <p align="left"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="600" width="1000"></p>

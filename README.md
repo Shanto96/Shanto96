@@ -3,6 +3,7 @@
 
 <p align="right"><a href="https://app.daily.dev/DailyDevTips" float="right"><img src="https://github.com/Shanto96/Shanto96/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a></p>
 
+<p align="left">
 - 🔭 I’m currently working on **Brain Code BD**
 
 - 🌱 I’m currently learning **Dev Ops,Next js,Typescript**
@@ -18,13 +19,11 @@
 - 📫 How to reach me **shan2neo@gmail.com**
 
 - ⚡ Fun fact **I am student of night before exam**
+</p>
 
 
 
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

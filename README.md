@@ -83,4 +83,4 @@
 
 
 
-<p align="left"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="600" width="1000"></p>
+<p align="left"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="400" width="1000"></p>

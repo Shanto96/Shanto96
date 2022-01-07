@@ -1,31 +1,16 @@
 <h1 align="center">Hi 👋, I'm A.K.M. Kibria Hasan</h1>
 <h3 align="center">A passionate JS Developer from Bangladesh</h3>
-
-<div>
-  <div float "left" align="left">
-  
-
-- 🔭 I’m currently working on **Brain Code BD**
-
-- 🌱 I’m currently learning **Dev Ops,Next js,Typescript**
-
-- 👯 I’m looking to collaborate on **React App and Dev Ops Team**
-
-- 🤝 I’m looking for help with **Optimization of React App**
-
-- 👨‍💻 All of my projects are available at [#](#)
-
-- 💬 Ask me about **react, reusable & optimized component**
-
-- 📫 How to reach me **shan2neo@gmail.com**
-
-- ⚡ Fun fact **I am student of night before exam**
-  </div>
-   <div align="right" float="right>
-  <p><a href="https://app.daily.dev/DailyDevTips" float="right"><img src="https://github.com/Shanto96/Shanto96/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a></p>
-  </div>
-
-</div>
+<ul>
+<li><p>🔭 I’m currently working on <strong>Brain Code BD</strong></p></li>
+<li><p>🌱 I’m currently learning <strong>Dev Ops,Next js,Typescript</strong></p></li>
+<li><p>👯 I’m looking to collaborate on <strong>React App and Dev Ops Team</strong></p></li>
+<li><p>🤝 I’m looking for help with <strong>Optimization of React App</strong></p></li>
+<li><p>👨‍💻 All of my projects are available at <a href="#">#</a></p></li>
+<li><p>💬 Ask me about <strong>react, reusable &amp; optimized component</strong></p></li>
+<li><p>📫 How to reach me <strong>shan2neo@gmail.com</strong></p></li>
+<li><p>⚡ Fun fact <strong>I am student of night before exam</strong>
+<img src="https://github.com/Shanto96/Shanto96/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card" align="right"/></p></li>
+</ul>
 
 
 

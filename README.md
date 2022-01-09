@@ -6,7 +6,7 @@
 <li><p>🌱 I’m currently learning <strong>Dev Ops,Next js,Typescript</strong></p></li>
 <li><p>👯 I’m looking to collaborate on <strong>React App and Dev Ops Team</strong></p></li>
 <li><p>🤝 I’m looking for help with <strong>Optimization of React App</strong></p></li>
-<li><p>👨‍💻 All of my projects are available at <a href="#">#</a></p></li>
+<li><p>👨‍💻 All of my projects are available at <a href="#"># </a></p></li>
 <li><p>💬 Ask me about <strong>react, reusable &amp; optimized component</strong></p></li>
 <li><p>📫 How to reach me <strong>shan2neo@gmail.com</strong></p></li>
 <li><p>⚡ Fun fact <strong>I am student of night before exam</strong>
